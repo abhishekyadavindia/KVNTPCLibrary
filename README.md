@@ -1,4 +1,4 @@
-# KVNTPCLibrary
+# KV NTPC Library
 It is a source code of our Application builted on Java and XML in Android Studio mainly for Android OS.
 This is an educational purpose application.
 This is builted on WebView Method of Android Application.<br/>
